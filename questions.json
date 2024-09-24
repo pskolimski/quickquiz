@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Jakie składniki są potrzebne do podstawowego ciasta na babeczki?",
+    "answers": [
+      "Mąka, cukier, jajka, masło",
+      "Mąka, cukier, jajka, oliwa",
+      "Mąka, cukier, jajka, mleko",
+      "Mąka, cukier, jajka, śmietana"
+    ],
+    "correct_answer": "Mąka, cukier, jajka, masło"
+  },
+  {
+    "question": "Jak długo należy piec babeczki w temperaturze 180°C?",
+    "answers": ["10-12 minut", "15-20 minut", "25-30 minut", "35-40 minut"],
+    "correct_answer": "15-20 minut"
+  },
+  {
+    "question": "Jakie narzędzie jest najlepsze do mieszania składników na babeczki?",
+    "answers": ["Łyżka", "Mikser ręczny", "Widelec", "Blender"],
+    "correct_answer": "Mikser ręczny"
+  },
+  {
+    "question": "Co można dodać do ciasta, aby babeczki były bardziej wilgotne?",
+    "answers": ["Więcej mąki", "Więcej cukru", "Jogurt", "Więcej jajek"],
+    "correct_answer": "Jogurt"
+  },
+  {
+    "question": "Jakie owoce najlepiej nadają się do babeczek?",
+    "answers": ["Jabłka", "Banany", "Jagody", "Pomarańcze"],
+    "correct_answer": "Jagody"
+  },
+  {
+    "question": "Jakie dodatki można dodać do babeczek czekoladowych?",
+    "answers": ["Orzechy", "Rodzynki", "Kokos", "Wszystkie powyższe"],
+    "correct_answer": "Wszystkie powyższe"
+  },
+  {
+    "question": "Jakie mleko najlepiej użyć do babeczek?",
+    "answers": [
+      "Pełne mleko",
+      "Mleko odtłuszczone",
+      "Mleko sojowe",
+      "Mleko migdałowe"
+    ],
+    "correct_answer": "Pełne mleko"
+  },
+  {
+    "question": "Jakie narzędzie jest najlepsze do nakładania ciasta do foremek?",
+    "answers": ["Łyżka", "Łyżka do lodów", "Szpatułka", "Rękaw cukierniczy"],
+    "correct_answer": "Łyżka do lodów"
+  },
+  {
+    "question": "Jakie przyprawy można dodać do babeczek dyniowych?",
+    "answers": ["Cynamon", "Gałka muszkatołowa", "Imbir", "Wszystkie powyższe"],
+    "correct_answer": "Wszystkie powyższe"
+  },
+  {
+    "question": "Jakie tłuszcze można użyć do babeczek?",
+    "answers": ["Masło", "Olej roślinny", "Margaryna", "Wszystkie powyższe"],
+    "correct_answer": "Wszystkie powyższe"
+  },
+  {
+    "question": "Jakie narzędzie jest najlepsze do sprawdzenia, czy babeczki są gotowe?",
+    "answers": [
+      "Widelec",
+      "Patyczek do szaszłyków",
+      "Termometr kuchenny",
+      "Łyżka"
+    ],
+    "correct_answer": "Patyczek do szaszłyków"
+  },
+  {
+    "question": "Jakie dodatki można dodać do babeczek waniliowych?",
+    "answers": ["Czekolada", "Owoce", "Orzechy", "Wszystkie powyższe"],
+    "correct_answer": "Wszystkie powyższe"
+  },
+  {
+    "question": "Jakie składniki można dodać, aby babeczki były bardziej puszyste?",
+    "answers": [
+      "Więcej mąki",
+      "Więcej jajek",
+      "Proszek do pieczenia",
+      "Więcej cukru"
+    ],
+    "correct_answer": "Proszek do pieczenia"
+  },
+  {
+    "question": "Jakie narzędzie jest najlepsze do dekorowania babeczek?",
+    "answers": ["Łyżka", "Szpatułka", "Rękaw cukierniczy", "Widelec"],
+    "correct_answer": "Rękaw cukierniczy"
+  },
+  {
+    "question": "Jakie dodatki można dodać do babeczek marchewkowych?",
+    "answers": ["Orzechy", "Rodzynki", "Kokos", "Wszystkie powyższe"],
+    "correct_answer": "Wszystkie powyższe"
+  }
+]
